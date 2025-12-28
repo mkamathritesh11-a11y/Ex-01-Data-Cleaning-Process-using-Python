@@ -27,10 +27,15 @@ STEP 6: Use zscore of to remove outliers
 # Program and output
 /*
 Program to perform data cleaning and save the cleaned data to a file.
+<img width="500" height="182" alt="image" src="https://github.com/user-attachments/assets/aef4cd14-48a4-4f2d-bcba-8ba5ba436324" />
 
-Developed by: 
+<img width="643" height="168" alt="image" src="https://github.com/user-attachments/assets/fcead122-b8f4-4f7e-a984-15bd0c7f6c2b" />
 
-RegisterNumber:  
+<img width="667" height="167" alt="image" src="https://github.com/user-attachments/assets/37b87fcf-54c9-4b8d-aa31-eb13f90b6c01" />
+
+Developed by: Ritesh M Kamath
+
+RegisterNumber:  25010798
 */
 
 # output
